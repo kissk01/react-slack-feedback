@@ -3,7 +3,6 @@ npm-debug.log
 .DS_Store
 uploads
 lib
-dist
 test-results.json
 .idea
 .idea/
