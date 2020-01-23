@@ -42,7 +42,7 @@
   },
   "precommit": {
     "run": [
-      "lint-staged",
+      "lint-staged"
     ]
   },
   "repository": {
