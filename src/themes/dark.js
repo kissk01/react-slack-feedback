@@ -2,7 +2,8 @@ export default {
   colors: {
     primary: '#d90368',
     secondary: 'black',
-    background: 'black'
+    background: 'black',
+    textColor: 'white'
   },
   content: {
     padding: '0 0.75em 1em',

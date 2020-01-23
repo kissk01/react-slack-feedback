@@ -260,7 +260,7 @@ const UploadButton = styled.label`
 `
 
 const Label = styled.label`
-  color: ${theme('colors.primary')};
+  color: ${theme('colors.textColor')};
   display: block;
   font-size: ${theme('label.fontSize')};
   margin: 5px 0;
