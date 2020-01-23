@@ -8,6 +8,7 @@
   right: 0;
   margin: 1em;
   text-align: left;
+  width: calc(100% - 2em);
   font-weight: ${theme("content.fontWeight",400)};
 
   * {
