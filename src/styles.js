@@ -62,7 +62,6 @@ const load = keyframes`
 
 const SlackFeedback = styled.div`
   position: fixed;
-  font-family: ${theme('fontFamily', 'inherit')};
   z-index: 99999998;
   bottom: 12px;
   right: 0;
