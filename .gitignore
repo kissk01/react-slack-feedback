@@ -5,6 +5,8 @@ uploads
 lib
 dist
 test-results.json
+.idea
+.idea/
 
 # Logs
 logs

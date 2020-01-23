@@ -21,7 +21,6 @@ import {
   SlackFeedback as StyledSlackFeedback,
   SubmitButton,
   Tabs,
-  Trigger,
   UploadButton
 } from './styles'
 
@@ -431,11 +430,6 @@ class SlackFeedback extends React.Component {
               </SubmitButton>
             </Content>
           </Container>
-
-          <Trigger className={cx({ active: open })} onClick={this.toggle}>
-            {this.props.showIcon ? <Icon /> : null}{' '}
-            {this.translate('trigger.text')}
-          </Trigger>
         </StyledSlackFeedback>
       </ThemeProvider>
     )

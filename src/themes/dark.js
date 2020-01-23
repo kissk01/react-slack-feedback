@@ -6,7 +6,7 @@ export default {
   },
   content: {
     padding: '0 0.75em 1em',
-    width: '400px'
+    width: '100%'
   },
   trigger: {
     color: 'white',

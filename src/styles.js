@@ -106,6 +106,7 @@ const Container = styled.div`
   background: ${theme('colors.background')};
   position: relative;
   z-index: 999999999;
+  width: calc(100% - 2em);
   border-radius: 4px;
   width: ${theme('content.width', '360px')};
   bottom: ${theme('content.bottom', '65px')};

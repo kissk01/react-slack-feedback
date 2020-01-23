@@ -43,7 +43,6 @@
   "precommit": {
     "run": [
       "lint-staged",
-      "test"
     ]
   },
   "repository": {
