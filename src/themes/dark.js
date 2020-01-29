@@ -1,8 +1,8 @@
 export default {
   colors: {
     primary: '#d90368',
-    secondary: 'black',
-    background: 'black',
+    secondary: '#f1e9da',
+    background: '#f1e9da',
     textColor: 'white'
   },
   content: {
