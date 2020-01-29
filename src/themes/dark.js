@@ -1,7 +1,7 @@
 export default {
   colors: {
     primary: '#d90368',
-    secondary: 'rgba(255, 255, 255, 0.8)',
+    secondary: '#323232',
     background: '#f1e9da',
     textColor: 'white'
   },
@@ -19,7 +19,7 @@ export default {
     fontSize: '14px'
   },
   input: {
-    backgroundColor: 'rgba(255, 255, 255, 0.8)',
+    backgroundColor: '#323232',
     padding: '1em',
     color: 'white',
     fontSize: '14px',
@@ -34,7 +34,7 @@ export default {
     border: 'none',
     borderRadius: '4px',
     padding: '1em',
-    backgroundColor: 'rgba(255, 255, 255, 0.8)'
+    backgroundColor: '#323232'
   },
   uploadButton: {
     color: 'white',
