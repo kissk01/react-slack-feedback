@@ -383,14 +383,16 @@ class SlackFeedback extends React.Component {
             <Content>
               {showChannel && (
                 <span id="channel">
-                  <Label htmlFor="channel">
+                  <Label htmlFor="channel" style={{ color: '#323232' }}>
                     {this.translate('label.channel')}
                   </Label>
                   <FormElement disabled as="input" value={this.props.channel} />
                 </span>
               )}
 
-              <Label>{this.translate('label.type')}</Label>
+              <Label style={{ color: '#323232' }}>
+                {this.translate('label.type')}
+              </Label>
               <Tabs>
                 {this.props.feedbackTypes.map(type => (
                   <li
@@ -406,7 +408,9 @@ class SlackFeedback extends React.Component {
                 ))}
               </Tabs>
 
-              <Label>{this.translate('label.message')}</Label>
+              <Label style={{ color: '#323232' }}>
+                {this.translate('label.message')}
+              </Label>
               <FormElement
                 as="textarea"
                 name="message"
