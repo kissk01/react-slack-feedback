@@ -360,12 +360,8 @@ const PreviewOverlay = styled.div`
     color: #ffffff;
     border-radius: 4px;
     cursor: pointer;
-    background: ${theme('overlay.backgroundColor')};
+    background: 'rgba(255, 255, 255, 0.8)';
     transition: background 0.15s;
-
-    &:hover {
-      background: ${theme('colors.secondary')};
-    }
   }
 `
 
