@@ -178,7 +178,7 @@ import e from"react";import t,{css as r,keyframes as o,ThemeProvider as a}from"s
     color: ${h("uploadButton.hoverColor")};
   }
 `,z=t.label`
-  color: ${h("colors.textColor")};
+  color: ${h("colors.secondary")};
   display: block;
   font-size: ${h("label.fontSize")};
   margin: 5px 0;

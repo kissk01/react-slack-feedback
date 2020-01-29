@@ -3,7 +3,7 @@ export default {
     primary: '#d90368',
     secondary: '#323232',
     background: '#f1e9da',
-    textColor: 'white'
+    textColor: 'white',
   },
   content: {
     padding: '0 0.75em 1em',

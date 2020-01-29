@@ -178,7 +178,7 @@
     color: ${theme("uploadButton.hoverColor")};
   }
 `,Label=styled__default.label`
-  color: ${theme("colors.textColor")};
+  color: ${theme("colors.secondary")};
   display: block;
   font-size: ${theme("label.fontSize")};
   margin: 5px 0;
