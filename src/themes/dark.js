@@ -1,7 +1,7 @@
 export default {
   colors: {
     primary: '#d90368',
-    secondary: '#323232',
+    secondary: '#2e294e',
     background: '#f1e9da',
     textColor: 'white',
   },
@@ -19,7 +19,7 @@ export default {
     fontSize: '14px'
   },
   input: {
-    backgroundColor: '#323232',
+    backgroundColor: '#2e294e',
     padding: '1em',
     color: 'white',
     fontSize: '14px',
@@ -34,15 +34,15 @@ export default {
     border: 'none',
     borderRadius: '4px',
     padding: '1em',
-    backgroundColor: '#323232'
+    backgroundColor: '#2e294e'
   },
   uploadButton: {
     color: 'white',
     hoverColor: 'white',
     border: 'none',
     hoverBorder: 'none',
-    backgroundColor: '#222',
-    hoverBackgroundColor: '#323232'
+    backgroundColor: '#2e294e',
+    hoverBackgroundColor: '#2e294e'
   },
   image: {
     border: 'none'

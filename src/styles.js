@@ -360,7 +360,7 @@ const PreviewOverlay = styled.div`
     color: #ffffff;
     border-radius: 4px;
     cursor: pointer;
-    background: '#323232';
+    background: '#2e294e';
     transition: background 0.15s;
   }
 `
